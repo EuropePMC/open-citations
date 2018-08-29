@@ -1,1 +1,3 @@
-<h1>Open Citations</h1>
+<h1>Open Citations Hack Day</h1>
+<p>This is a GitHub repo for the Open Citations Hack Day <a href="//bit.ly/OpenCitationsHack">http://bit.ly/OpenCitationsHack</a></p>
+<p>About 500 million open bibliographic citations are available on the web. It’s time to put open citations to a good use. We invite all interested parties to collaboratively build on, analyse, and reuse the open citation data with an ultimate goal of prototyping new innovative solutions and generating actionable projects around open citations.</p>
